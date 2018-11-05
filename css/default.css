@@ -1,0 +1,31 @@
+@charset "utf-8"
+
+{
+margin: 0;
+padding: 0;
+
+}
+body{
+background-color: gray;
+}
+
+header{
+padding: 10px;
+text-aligin: center;
+background-color: red;
+}
+
+section{
+padding: 10px;
+background-color:orange;
+}
+
+aside{
+padding: 10px;
+background-color: green;
+}
+fotter{
+padding: 10px;
+background-color: blue;
+text-aligin: center;
+}
